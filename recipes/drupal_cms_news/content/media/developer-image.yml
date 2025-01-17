@@ -1,0 +1,36 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: d6206efd-8da4-4479-a0a3-807890330705
+  bundle: image
+  default_langcode: en
+  depends:
+    f57ca5cc-9336-44d5-b847-b24876ffd1f6: file
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: Ambitious-developer-GettyImages-1366950193.jpg
+  created:
+    -
+      value: 1734904462
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_media_image:
+    -
+      entity: f57ca5cc-9336-44d5-b847-b24876ffd1f6
+      alt: 'Smart looking young man sitting with a laptop in a cafe.'
+      title: ''
+      width: 1440
+      height: 960

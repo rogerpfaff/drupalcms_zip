@@ -1,0 +1,38 @@
+global-styling:
+  css:
+    base:
+      css/base/base.css: {}
+      css/base/buttons.css: {}
+      css/base/typography.css: {}
+    component:
+      css/components/form.css: {}
+views:
+  css:
+    theme:
+      css/components/views-exposed-form.css: {}
+      css/components/card.css: {}
+      css/components/block.css: {}
+view-search:
+  css:
+    layout:
+      css/layout/views-search.css: {}
+search-api-autocomplete:
+  css:
+    component:
+      css/components/search-api-autocomplete.css: {}
+event-full:
+  css:
+    component:
+      css/components/event-full.css: {}
+case-study-full:
+  css:
+    component:
+      css/components/case-study-full.css: {}
+project-full:
+  css:
+    component:
+      css/components/project-full.css: {}
+person-full:
+  css:
+    component:
+      css/components/person-full.css: {}

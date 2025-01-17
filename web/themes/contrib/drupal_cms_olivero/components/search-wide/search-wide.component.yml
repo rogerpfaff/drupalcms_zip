@@ -1,0 +1,3 @@
+libraryOverrides:
+  dependencies:
+    - core/drupal.autocomplete

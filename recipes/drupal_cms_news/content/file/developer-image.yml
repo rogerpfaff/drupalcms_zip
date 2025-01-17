@@ -1,0 +1,28 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: f57ca5cc-9336-44d5-b847-b24876ffd1f6
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: Ambitious-developer-GettyImages-1366950193.jpg
+  uri:
+    -
+      value: 'public://2024-12/Ambitious-developer-GettyImages-1366950193.jpg'
+      url: /sites/default/files/2024-12/Ambitious-developer-GettyImages-1366950193.jpg
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 961257
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1734904462

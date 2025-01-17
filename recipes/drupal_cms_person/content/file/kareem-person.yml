@@ -1,0 +1,28 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 5a635060-8540-4be7-bad9-8a51414731ad
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: Ambitious-sitebuilder-GettyImages-1327498437.jpg
+  uri:
+    -
+      value: 'public://2025-01/Ambitious-sitebuilder-GettyImages-1327498437.jpg'
+      url: /sites/default/files/2025-01/Ambitious-sitebuilder-GettyImages-1327498437.jpg
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 91013
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1736321254

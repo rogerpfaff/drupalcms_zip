@@ -1,0 +1,33 @@
+{
+    "name": "drupal/drupal_cms_starter",
+    "description": "Applies the foundational Drupal CMS recipes.",
+    "type": "drupal-recipe",
+    "license": ["GPL-2.0-or-later"],
+    "require": {
+        "drupal/automatic_updates": "^3.1.7",
+        "drupal/bpmn_io": "^2.0.3",
+        "drupal/core": ">=10.4",
+        "drupal/eca": "^2.1",
+        "drupal/dashboard": "^2",
+        "drupal/drupal_cms_admin_ui": "~1.0.0",
+        "drupal/drupal_cms_anti_spam": "~1.0.0",
+        "drupal/drupal_cms_authentication": "~1.0.0",
+        "drupal/drupal_cms_olivero": "~1.0.0",
+        "drupal/drupal_cms_page": "~1.0.0",
+        "drupal/drupal_cms_privacy_basic": "~1.0.0",
+        "drupal/drupal_cms_remote_video": "~1.0.0",
+        "drupal/drupal_cms_search": "~1.0.0",
+        "drupal/drupal_cms_seo_basic": "~1.0.0",
+        "drupal/easy_email_express": "^1.0.2",
+        "drupal/project_browser": "^2-alpha7",
+        "drupal/token": "^1"
+    },
+    "suggest": {
+        "drupal/drupal_cms_blog": "Adds a blog post content type and listing page.",
+        "drupal/drupal_cms_case_study": "Adds a case study content type and listing page.",
+        "drupal/drupal_cms_events": "Adds an event content type and listing page.",
+        "drupal/drupal_cms_news": "Adds a news content type and listing page.",
+        "drupal/drupal_cms_person": "Adds a person profile content type.",
+        "drupal/drupal_cms_project": "Adds a project content type and listing page."
+    }
+}
